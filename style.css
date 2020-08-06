@@ -1,0 +1,16 @@
+
+.btn{
+    
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 70px;
+    height: 23px;
+
+}
+.header{
+    text-align:center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+fieldset{
+    max-width: 100%;
+}
